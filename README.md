@@ -1,5 +1,8 @@
 # Hi! I'm Leslie! 👋
-I'm a full-stack SWE and passionate about building websites that are appealing, beautiful, and easy to use.
+
+Since I explored the world of web development, my life has been transformed and it's filled with unyielding motivation. Solving problems, learning new tech, and implementing newfound skills bring me immense joy, especially when I witness the glorious outcomes shown on the browser.
+
+"To live is to learn" is my motto and I believe it's also the core value of being a SWE. Each day, I strive to be a better version of myself and I can't wait to thrive in the new chapter of my life.
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F0DB4F)
 ![Static Badge](https://img.shields.io/badge/Python-%2337C0B4)
