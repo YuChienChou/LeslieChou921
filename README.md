@@ -1,4 +1,4 @@
-# Hi! I'm Leslie!
+# Hi! I'm Leslie! 👋
 I'm a full-stack SWE and passionate about building websites that are appealing, beautiful, and easy to use.
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F0DB4F)
@@ -17,7 +17,13 @@ I'm a full-stack SWE and passionate about building websites that are appealing, 
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%233C99D4)
 
 
-## My projects:
+## My projects which I'm currently working on:
 - 📂 [HaveFunBnb](https://have-fun-bnb.onrender.com/)
 - 📂 [snapr](https://snapr.onrender.com/)
 - 📂 [lifepage](https://lifepage.onrender.com/)
+
+
+## Contact me and let's enjoy coding together!
+- [Email](chouyuchien@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lesliechou921/)
+- [wellfound](https://wellfound.com/u/leslie-chou)
