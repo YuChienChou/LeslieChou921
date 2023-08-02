@@ -20,9 +20,6 @@ Since I explored the world of web development, my life has been transformed and 
 ![Static Badge](https://img.shields.io/badge/node.js-%2383CD29)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%233C99D4) 
 ![Static Badge](https://img.shields.io/badge/Git-%23F3F9E3)
-![Static Badge](https://img.shields.io/badge/GitHub-%23EDD83D)
-
-
 
 
 ## My projects which I'm currently working on:
