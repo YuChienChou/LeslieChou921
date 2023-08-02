@@ -27,6 +27,6 @@ Since I explored the world of web development, my life has been transformed and 
 
 
 ## Contact me and let's enjoy coding together!
-- 🪅[Email](chouyuchien@gmail.com)
-- 🍎[LinkedIn](https://www.linkedin.com/in/lesliechou921/)
-- 🐳[wellfound](https://wellfound.com/u/leslie-chou)
+- [Email](chouyuchien@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lesliechou921/)
+- [wellfound](https://wellfound.com/u/leslie-chou)
