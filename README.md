@@ -2,7 +2,7 @@
 
 Since I explored the world of web development, my life has been transformed and it's filled with unyielding motivation. Solving problems, learning new tech, and implementing newfound skills bring me immense joy, especially when I witness the glorious outcomes shown on the browser.
 
-"To live is to learn" is my motto and I believe it's also the core value of being a SWE. Each day, I strive to be a better version of myself and I can't wait to thrive in the new chapter of my life.
+"To live is to learn" is my motto and I believe it's also the core value of being a SWE. Each day, I strive to be a better version of myself and I can't wait to thrive in the new chapter of my life!
 
 ## 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F0DB4F)
@@ -27,6 +27,6 @@ Since I explored the world of web development, my life has been transformed and 
 
 
 ## Contact me and let's enjoy coding together!
-- [Email](chouyuchien@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/lesliechou921/)
-- [wellfound](https://wellfound.com/u/leslie-chou)
+- 🪅[Email](chouyuchien@gmail.com)
+- 🍎[LinkedIn](https://www.linkedin.com/in/lesliechou921/)
+- 🐳[wellfound](https://wellfound.com/u/leslie-chou)
