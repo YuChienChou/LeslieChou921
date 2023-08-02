@@ -4,6 +4,7 @@ Since I explored the world of web development, my life has been transformed and 
 
 "To live is to learn" is my motto and I believe it's also the core value of being a SWE. Each day, I strive to be a better version of myself and I can't wait to thrive in the new chapter of my life.
 
+## 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F0DB4F)
 ![Static Badge](https://img.shields.io/badge/Python-%2337C0B4)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB)
@@ -17,8 +18,7 @@ Since I explored the world of web development, my life has been transformed and 
 ![Static Badge](https://img.shields.io/badge/CSS3-%233D8FC6)
 ![Static Badge](https://img.shields.io/badge/npm-%23215722)
 ![Static Badge](https://img.shields.io/badge/node.js-%2383CD29)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio-%233C99D4)
-
+![Static Badge](https://img.shields.io/badge/Visual%20Studio-%233C99D4) 
 
 ## My projects which I'm currently working on:
 - 📂 [HaveFunBnb](https://have-fun-bnb.onrender.com/)
