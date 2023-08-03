@@ -27,6 +27,8 @@ Since I explored the world of web development, my life has been transformed and 
 - 📂 [snapr](https://snapr.onrender.com/)
 - 📂 [lifepage](https://lifepage.onrender.com/)
 
+## GitHub Stats
+![YuChienChou's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuChienChou&show_icons=true&theme=radical&hide=contribs)
 
 ## Contact me and let's enjoy coding together!
 - [Email](chouyuchien@gmail.com)
