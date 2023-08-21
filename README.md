@@ -32,9 +32,6 @@ Since I explored the world of web development, my life has been transformed and 
 ![YuChienChou's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuChienChou&show_icons=true&theme=radical&hide=contribs)
 
 ## Contact me and let's enjoy coding together!
-- [Email](chouyuchien@gmail.com)
-- <a href="mailto:chouyuchien@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%23FFFFFF?logo=Gmail"></a>
-
-
-- [LinkedIn](https://www.linkedin.com/in/lesliechou921/)
-- [wellfound](https://wellfound.com/u/leslie-chou)
+- <a href="mailto:chouyuchien@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%230C5EB1?style=social&logo=gmail"></a>
+- <a href="https://www.linkedin.com/in/lesliechou921/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230C5EB1?style=social&logo=linkedin"></a>
+- <a href="https://wellfound.com/u/leslie-chou"><img alt="Static Badge" src="https://img.shields.io/badge/wellfound-%23000000?style=social&logo=AngelList"></a>
