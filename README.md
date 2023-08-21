@@ -33,5 +33,8 @@ Since I explored the world of web development, my life has been transformed and 
 
 ## Contact me and let's enjoy coding together!
 - [Email](chouyuchien@gmail.com)
+- <a href="mailto:chouyuchien@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%23FFFFFF?logo=Gmail"></a>
+
+
 - [LinkedIn](https://www.linkedin.com/in/lesliechou921/)
 - [wellfound](https://wellfound.com/u/leslie-chou)
