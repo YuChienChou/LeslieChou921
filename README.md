@@ -14,7 +14,7 @@ Since I explored the world of web development, my life has been transformed and 
 ![Static Badge](https://img.shields.io/badge/Sequelize-%23C1A5C3?logo=sequelize)
 ![Static Badge](https://img.shields.io/badge/Sqlalchemy-%2392A15F)
 ![Static Badge](https://img.shields.io/badge/AWS%20S3-%230856A1?logo=Amazon%20S3)
-![Static Badge](https://img.shields.io/badge/HTML5-%23CC5131?style=flat&logo=html5&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/HTML5-%23CC5131?logo=html5&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/CSS3-%233B85B7?logo=css3)
 ![Static Badge](https://img.shields.io/badge/npm-%23245424?logo=npm)
 ![Static Badge](https://img.shields.io/badge/node.js-%2378BB27?logo=node.js)
