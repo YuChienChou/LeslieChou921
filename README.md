@@ -5,7 +5,7 @@ Since I explored the world of web development, my life has been transformed and 
 "To live is to learn" is my motto and I believe it's also the core value of being a SWE. Each day, I strive to be a better version of myself and I can't wait to thrive in the new chapter of my life!
 
 ## 
-![Static Badge](https://img.shields.io/badge/JavaScript-%23DFCC4E?logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23FFFFFF&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/Python-%2336B1A6?logo=Python)
 ![Static Badge](https://img.shields.io/badge/React-%235AC7E4?logo=React)
 ![Static Badge](https://img.shields.io/badge/Redux-%236D45AC?logo=Redux)
@@ -14,7 +14,7 @@ Since I explored the world of web development, my life has been transformed and 
 ![Static Badge](https://img.shields.io/badge/Sequelize-%23C1A5C3?logo=sequelize)
 ![Static Badge](https://img.shields.io/badge/Sqlalchemy-%2392A15F)
 ![Static Badge](https://img.shields.io/badge/AWS%20S3-%230856A1?logo=Amazon%20S3)
-![Static Badge](https://img.shields.io/badge/HTML5-%23D24A26?logo=html5)
+![Static Badge](https://img.shields.io/badge/HTML5-%23CC5131?style=flat&logo=html5&logoColor=%23FFFFFF)
 ![Static Badge](https://img.shields.io/badge/CSS3-%233B85B7?logo=css3)
 ![Static Badge](https://img.shields.io/badge/npm-%23245424?logo=npm)
 ![Static Badge](https://img.shields.io/badge/node.js-%2378BB27?logo=node.js)
