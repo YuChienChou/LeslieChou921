@@ -27,6 +27,9 @@ Since I explored the world of web development, my life has been transformed and 
 <br></br>
 ## GitHub Stats
  ![YuChienChou's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuChienChou&show_icons=true&theme=radical&hide=contribs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuChienChou&layout=compact)
+
+ [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YuChienChou&show_icons=true&theme=radical&hide=contribs#gh-dark-mode-only)](https://github.com/YuChienChou/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=YuChienChou&show_icons=true&theme=radical&hide=contribs#gh-light-mode-only)](https://github.com/YuChienChou/github-readme-stats#gh-light-mode-only)
 <br></br>
 ## Contact me and let's enjoy coding together! 🙌
 
