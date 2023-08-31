@@ -19,7 +19,6 @@ Since I explored the world of web development, my life has been transformed and 
 ![Static Badge](https://img.shields.io/badge/node.js-%23254F25?logo=node.js)
 ![Static Badge](https://img.shields.io/badge/Git-%23B6B9AB?logo=git)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%233A8EC3?logo=visual%20studio)
-## 
 
 ## My projects which I'm currently working on:
 - 📂 [HaveFunBnb](https://have-fun-bnb.onrender.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
