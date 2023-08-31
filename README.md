@@ -1,10 +1,14 @@
-# Hi! I'm Leslie! 👋
+# Hi! I'm Leslie! 👋 
 
 Since I explored the world of web development, my life has been transformed and it's filled with unyielding motivation. Solving problems, learning new tech, and implementing newfound skills bring me immense joy, especially when I witness the glorious outcomes shown on the browser.
 
 "To live is to learn" is my motto and I believe it's also the core value of being a SWE. Each day, I strive to be a better version of myself and I can't wait to thrive in the new chapter of my life!
 
 ## 
+<div align='center'>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&center=true&vCenter=true&width=435&lines=JavaScript+%7C+Python+;React+%7C+Redux;Flask+%7C+Express;Sequelize+%7C+SQLAlchemy;HTML5+%7C+CSS3+%7C+AWS+S3;npm+%7C+node.js+%7C+Git+%7C+Visual+Studio" alt="Typing SVG" /></a>
+</div>
+
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=%23FFFFFF&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/Python-%2336B1A6?logo=Python)
 ![Static Badge](https://img.shields.io/badge/React-%235AC7E4?logo=React)
@@ -21,17 +25,16 @@ Since I explored the world of web development, my life has been transformed and 
 ![Static Badge](https://img.shields.io/badge/Git-%23B6B9AB?logo=git)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%233A8EC3?logo=visual%20studio)
 
-
+## 
 
 ## My projects which I'm currently working on:
 - 📂 [HaveFunBnb](https://have-fun-bnb.onrender.com/)
 - 📂 [snapr](https://snapr.onrender.com/)
 - 📂 [lifepage](https://lifepage.onrender.com/)
-
+<br></br>
 ## GitHub Stats
  ![YuChienChou's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuChienChou&show_icons=true&theme=radical&hide=contribs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuChienChou&layout=compact)
-
-
+<br></br>
 ## Contact me and let's enjoy coding together!
 - <a href="mailto:chouyuchien@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%230C5EB1?style=social&logo=gmail"></a>
 - <a href="https://www.linkedin.com/in/lesliechou921/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230C5EB1?style=social&logo=linkedin"></a>
