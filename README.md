@@ -1,4 +1,4 @@
-# Hi! I'm Leslie! 👋  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&center=true&vCenter=true&width=300&height=20&lines=Welcom+to+my+github!;Let's+enjoy+coding+together!)](https://git.io/typing-svg)
+# Hi! I'm Leslie! 👋&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&vCenter=true&width=300&height=20&lines=Welcom+to+my+github!;Let's+enjoy+coding+together!)](https://git.io/typing-svg)
 Since I explored the world of web development, my life has been transformed and it's filled with unyielding motivation. Solving problems, learning new tech, and implementing newfound skills bring me immense joy, especially when I witness the glorious outcomes shown on the browser.
 
 "To live is to learn" is my motto and I believe it's also the core value of being a SWE. Each day, I strive to be a better version of myself and I can't wait to thrive in the new chapter of my life!
