@@ -29,7 +29,8 @@ Since I explored the world of web development, my life has been transformed and 
 - 📂 [lifepage](https://lifepage.onrender.com/)
 
 ## GitHub Stats
-![YuChienChou's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuChienChou&show_icons=true&theme=radical&hide=contribs)
+ ![YuChienChou's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuChienChou&show_icons=true&theme=radical&hide=contribs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuChienChou&layout=compact)
+
 
 ## Contact me and let's enjoy coding together!
 - <a href="mailto:chouyuchien@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%230C5EB1?style=social&logo=gmail"></a>
