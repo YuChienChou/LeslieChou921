@@ -30,7 +30,7 @@ Since I explored the world of web development, my life has been transformed and 
 <br></br>
 ## 
 <h2>
-🙌 Contact me and let's enjoy coding together! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chouyuchien@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%230C5EB1?style=social&logo=gmail"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/lesliechou921/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230C5EB1?style=social&logo=linkedin"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wellfound.com/u/leslie-chou"><img alt="Static Badge" src="https://img.shields.io/badge/wellfound-%23000000?style=social&logo=AngelList"></a>
+🙌 Contact me and let's enjoy coding together! &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chouyuchien@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%230C5EB1?style=social&logo=gmail"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/lesliechou921/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230C5EB1?style=social&logo=linkedin"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wellfound.com/u/leslie-chou"><img alt="Static Badge" src="https://img.shields.io/badge/wellfound-%23000000?style=social&logo=AngelList"></a>
 </h2>
 
 
