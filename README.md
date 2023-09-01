@@ -28,8 +28,12 @@ Since I explored the world of web development, my life has been transformed and 
 ## GitHub Stats
  ![YuChienChou's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuChienChou&show_icons=true&theme=radical&hide=contribs)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuChienChou&layout=compact)
 <br></br>
-## Contact me and let's enjoy coding together! 🙌
+## 
+<h2>
+🙌 Contact me and let's enjoy coding together! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chouyuchien@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%230C5EB1?style=social&logo=gmail"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/lesliechou921/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230C5EB1?style=social&logo=linkedin"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wellfound.com/u/leslie-chou"><img alt="Static Badge" src="https://img.shields.io/badge/wellfound-%23000000?style=social&logo=AngelList"></a>
+</h2>
 
 
-<a href="mailto:chouyuchien@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-%230C5EB1?style=social&logo=gmail"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/lesliechou921/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230C5EB1?style=social&logo=linkedin"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wellfound.com/u/leslie-chou"><img alt="Static Badge" src="https://img.shields.io/badge/wellfound-%23000000?style=social&logo=AngelList"></a>
+
+
 
