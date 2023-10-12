@@ -20,7 +20,7 @@ Since I explored the world of web development, my life has been transformed and 
 ![Static Badge](https://img.shields.io/badge/Git-%23B6B9AB?logo=git)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%233A8EC3?logo=visual%20studio)
 <br></br>
-## My projects which I'm currently working on:
+## My projects:
 - 📂 [HaveFunBnb](https://have-fun-bnb.onrender.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - 📂 [snapr](https://snapr.onrender.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - 📂 [lifepage](https://lifepage.onrender.com/)
