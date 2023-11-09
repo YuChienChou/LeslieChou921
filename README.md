@@ -21,7 +21,7 @@ Since I explored the world of web development, my life has been transformed and 
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio-%233A8EC3?logo=visual%20studio)
 <br></br>
 ## My projects:
-📂 [lifepage](https://lifepage.onrender.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 [leapSign](https://leapsign.onrender.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 [HaveFunBnb](https://have-fun-bnb.onrender.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 [snapr](https://snapr.onrender.com/)
+📂 [lifepage](https://lifepage.onrender.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 [leapSign](https://leapsign.onrender.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 [HaveFunBnb](https://have-fun-bnb.onrender.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📂 [snapr]([https://snapr.onrender.com/](https://snapr-u6b2.onrender.com/)
 
 <br></br>
 ## GitHub Stats
